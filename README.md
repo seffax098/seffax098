@@ -18,6 +18,8 @@ React · Next.js · TypeScript · JavaScript · MobX · SCSS Modules · Git
 **[«Ну, погоди!» — браузерная игра](https://github.com/seffax098/Nu_pogodi)**  
 Воссоздание карманной игры «Электроника ИМ-02». React, TypeScript, графика на CSS и SVG, звук через Web Audio. Игровой движок отделён от интерфейса и покрыт тестами.
 
+[Играть](https://nu-pogodi-game-phi.vercel.app)
+
 **[Генератор цветовых палитр](https://github.com/seffax098/color-palette-generator)**  
 Приложение на Vue 3: генерация цветовых гармоний, фиксация оттенков, копирование HEX/RGB и сохранение настроек.
 
