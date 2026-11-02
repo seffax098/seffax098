@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, я Даня
 
-<!--
-**seffax098/seffax098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик из Москвы. Разрабатываю веб-приложения на React, TypeScript и Next.js.
 
-Here are some ideas to get you started:
+Прошёл обучение в школе KTS. В проектах работаю с API, управлением состоянием, адаптивной вёрсткой и серверным рендерингом.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек
+
+React · Next.js · TypeScript · JavaScript · MobX · SCSS Modules · Git
+
+### Избранные проекты
+
+**[Lalasia — интернет-магазин](https://github.com/seffax098/kts_nextjs)**  
+Каталог с поиском и фильтрами, корзина и личный кабинет. Next.js 16, React 19, TypeScript и MobX. Проект школы KTS, перенесённый со Strapi на DummyJSON.
+
+[Открыть демо](https://kts-nextjs.vercel.app/)
+
+**[«Ну, погоди!» — браузерная игра](https://github.com/seffax098/Nu_pogodi)**  
+Воссоздание карманной игры «Электроника ИМ-02». React, TypeScript, графика на CSS и SVG, звук через Web Audio. Игровой движок отделён от интерфейса и покрыт тестами.
+
+**[Генератор цветовых палитр](https://github.com/seffax098/color-palette-generator)**  
+Приложение на Vue 3: генерация цветовых гармоний, фиксация оттенков, копирование HEX/RGB и сохранение настроек.
+
+### Связаться со мной
+
+[Telegram](https://t.me/danek077) · [Email](mailto:dkutilkin@gmail.com)
